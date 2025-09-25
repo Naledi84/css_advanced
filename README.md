@@ -14,4 +14,17 @@ This project builds on the semantic HTML foundation from the previous task and t
 
 ---
 
+# CSS Advanced — SmileSchool Homepage
 
+This project is a fully styled multi-section homepage built for the ALX Front-End sprint. It replicates the SmileSchool layout based on a provided Figma design, using semantic HTML and advanced CSS techniques.
+
+## 🔧 Features
+
+- ✅ Semantic HTML structure for accessibility and clarity
+- ✅ Pixel-perfect layout matching the Figma design
+- ✅ Responsive Flexbox layout for video cards and FAQ items
+- ✅ Play button overlay on video thumbnails
+- ✅ Purple-accented headings and buttons for brand consistency
+- ✅ Membership section with benefit cards and register CTA
+- ✅ FAQ section with two-row layout and styled questions/answers
+- ✅ Footer with logo, social media icons, and copyright
