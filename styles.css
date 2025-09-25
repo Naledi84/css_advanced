@@ -325,7 +325,6 @@ nav ul li a {
   font-style: italic; /* only if needed */
 }
 
-
 .membership-benefits {
   display: flex;
   justify-content: center;
@@ -364,4 +363,46 @@ nav ul li a {
   border-radius: 30px;
   cursor: pointer;
 }
+
+.faq {
+  background-color: #fff;
+  color: #071629;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.faq h2 {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.faq-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+}
+
+.faq-row {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.faq-item {
+  width: 400px;
+  text-align: left;
+}
+
+.faq-item h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.faq-item p {
+  font-size: 14px;
+  color: #555;
+}
+
 
