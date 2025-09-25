@@ -109,7 +109,7 @@ nav ul li a {
 .banner button {
   margin-top: 30px;
   padding: 15px 30px;
-  background-color: #c271ff;
+  background-color: #FF6565;
   color: #fff;
   border: none;
   border-radius: 30px;
@@ -153,4 +153,48 @@ nav ul li a {
 .banner p {
   font-size: 14px;
   color: #ccc;
+}
+
+.quote {
+  background-color: #5d099c;
+  padding: 60px 20px;
+  color: #fff;
+}
+
+.quote-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.quote-block img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.quote-text {
+  max-width: 600px;
+  text-align: left;
+}
+
+.quote-text blockquote {
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.quote-text h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.quote-text .subtitle {
+  font-size: 14px;
+  color: #eee;
 }
